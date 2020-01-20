@@ -1,3 +1,3 @@
 # my-website
 
-my heading 
+School project to build and design your own website from scratch.
